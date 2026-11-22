@@ -1,5 +1,3 @@
-BADING SI TERRENCE
-
 # canteen.java
 import java.util.Scanner;
 
