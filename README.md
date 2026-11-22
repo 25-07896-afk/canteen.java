@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/368f0e85-1c0f-437f-ae1e-43c5a956f5f6" />
+
 # canteen.java
 import java.util.Scanner;
 
